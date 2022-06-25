@@ -13,7 +13,7 @@ const themes = {
     bg_color: "141439",
   },
   maxs: {
-    title_color: "9745f5",
+    title_color: "8080ff",
     icon_color: "F7EF8A",
     text_color: "7fdbca",
     bg_color: "1a1b27",
