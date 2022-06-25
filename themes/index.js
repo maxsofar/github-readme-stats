@@ -16,7 +16,7 @@ const themes = {
     title_color: "9745f5",
     icon_color: "F7EF8A",
     text_color: "7fdbca",
-    bg_color: "a599e9",
+    bg_color: "1a1b27",
   },
   dark: {
     title_color: "fff",
