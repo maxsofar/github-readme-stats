@@ -10,7 +10,13 @@ const themes = {
     title_color: "2f80ed",
     icon_color: "586069", // icon color is different
     text_color: "434d58",
-    bg_color: "fffefe",
+    bg_color: "141439",
+  },
+  maxs: {
+    title_color: "9745f5",
+    icon_color: "F7EF8A",
+    text_color: "7fdbca",
+    bg_color: "011627",
   },
   dark: {
     title_color: "fff",
