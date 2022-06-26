@@ -68,7 +68,7 @@ const renderStatsCard = (stats = {}, options = { hide: [] }) => {
     hide_border = false,
     hide_rank = false,
     include_all_commits = false,
-    line_height = 45,
+    line_height = 25,
     title_color,
     icon_color,
     text_color,
