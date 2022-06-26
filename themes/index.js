@@ -13,14 +13,14 @@ const themes = {
     bg_color: "141439",
   },
   maxs: {
-    title_color: "ff1aff",
-    icon_color: "fad000",
+    title_color: "ffcc00",
+    icon_color: "ff1aff",
     text_color: "7fdbca",
     bg_color: "1a1b27",
   },
   maxs2: {
-    title_color: "ffcc00",
-    icon_color: "fad000",
+    title_color: "8080ff",
+    icon_color: "F7EF8A",
     text_color: "bddfff",
     bg_color: "1a1b27",
   },
