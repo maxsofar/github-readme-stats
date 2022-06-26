@@ -20,6 +20,7 @@ const themes = {
   },
   maxs2: {
     title_color: "ffcc00",
+    icon_color: "fad000",
     text_color: "bddfff",
     bg_color: "1a1b27",
   },
