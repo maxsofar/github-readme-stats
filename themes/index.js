@@ -12,13 +12,13 @@ export const themes = {
     text_color: "434d58",
     bg_color: "141439",
   },
-  maxs: {
+  max_s: {
     title_color: "8080ff",
     icon_color: "fad000",
     text_color: "7fdbca",
     bg_color: "1a1b27",
   },
-  maxs2: {
+  maxs_2: {
     title_color: "ffcc00",
     icon_color: "F7EF8A",
     text_color: "bddfff",
